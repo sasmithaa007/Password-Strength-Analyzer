@@ -1,2 +1,20 @@
-# Password-Strength-Analyzer
-Java-based Password Strength Analyzer that evaluates password security based on length, complexity and strength.
+# Password Strength Analyzer
+
+## Description
+A Java application that evaluates password strength based on:
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+## Features
+- Checks password strength
+- Provides security suggestions
+- Classifies passwords as Weak, Medium, or Strong
+
+## Technology Used
+- Java
+
+## Author
+Sasmithaa Shri R.V
